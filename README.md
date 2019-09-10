@@ -1,6 +1,6 @@
 # miaomiao
 
-> A Vue.js project
+> B站上边看视频，边码出来的
 
 ## Build Setup
 
